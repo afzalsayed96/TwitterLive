@@ -37,3 +37,10 @@ python3 streamtwy.py
 ### See the output in generated CSV format
 
 ![alt text](https://github.com/afzalsayed96/TwitterLive/blob/master/screenshots/Screenshot%20from%202018-06-04%2000-17-41.png?raw=true)
+
+
+###References:
+
+https://pythonprogramming.net/twitter-api-streaming-tweets-python-tutorial/
+
+http://t-redactyl.io/blog/2017/04/using-vader-to-handle-sentiment-analysis-with-social-media-text.html
