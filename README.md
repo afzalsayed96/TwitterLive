@@ -1,5 +1,5 @@
 # TwitterLive
-Live stream and track tweets for any keywords
+Live stream and track <b>REALTIME</b> tweets for any keywords
 
 ### Clone the repository
 
