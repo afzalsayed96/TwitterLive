@@ -31,7 +31,7 @@ keywords = ["github","microsoft"]
 
 ### Run streamtwy.py
 ```
-python3 streamtwy.py
+python streamtwy.py
 ```
 
 ### See the output in generated CSV format
